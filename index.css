@@ -1,0 +1,22 @@
+.palabra{
+  display: flex;
+}
+.palo{
+  margin: 2px;
+  border-bottom: 3px solid black;
+  width: 32px;
+  height: 45px;
+  text-align: center;
+  font-size: 2.5em;
+
+}
+.botones button{
+  margin: 5px;
+  padding: 5px 0;
+  font-size: 1.3em;
+  background-color: #f7f6e9;
+  border:1px dashed black;
+  cursor: pointer;
+  width: 35px;
+  text-align: center;
+}
